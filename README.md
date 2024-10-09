@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Mind</h1>
-<h3 align="center">A Java Full Stack developer from India</h3>
+<h3 align="center">A Java Full Stack developer from Pune</h3>
 
 <br>
 
